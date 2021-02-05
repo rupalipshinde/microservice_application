@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/xampp/htdocs/microservice_application/app/Http/Controllers/UserController.php</file>
+            <file>file:/E:/xampp/htdocs/microservice_application/tests/Feature/UserTest.php</file>
+            <file>file:/E:/xampp/htdocs/microservice_application/resources/views/user.blade.php</file>
+            <file>file:/E:/xampp/htdocs/microservice_application/resources/views/edit.blade.php</file>
+            <file>file:/E:/xampp/htdocs/microservice_application/resources/views/create.blade.php</file>
+            <file>file:/E:/xampp/htdocs/microservice_application/app/Http/Middleware/Authenticate.php</file>
+            <file>file:/E:/xampp/htdocs/microservice_application/database/factories/UserFactory.php</file>
+            <file>file:/E:/xampp/htdocs/microservice_application/README.md</file>
+            <file>file:/E:/xampp/htdocs/microservice_application/tests/TestCase.php</file>
+            <file>file:/E:/xampp/htdocs/microservice_application/app/Http/Middleware/ForceJsonResponse.php</file>
+        </group>
+    </open-files>
+</project-private>

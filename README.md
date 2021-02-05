@@ -21,7 +21,18 @@ Instructions -
 
 4) Create DockerFile
 
+    FROM php:7.4-fpm-alpine <br/>
 
+    RUN docker-php-ext-install pdo pdo_mysql sockets <br/>
+    RUN curl -sS https://getcomposer.org/installer| php -- \--install-dir=/usr/local/bin --filename     =composer <br/>
+
+    WORKDIR /app <br/>
+    COPY . .<br/>
+    RUN composer install<br/>
+
+    CMD php artisan serve --host=0.0.0.0<br/>
+    EXPOSE 8000<br/>
+    
 5) Create a docker-compose.yml in the project directory.
 
 
